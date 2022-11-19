@@ -2,7 +2,6 @@
 # dicee-flutter
 Learning code for the Dicee project in the Complete Flutter Bootcamp  from www.appbrewery.co
 =======
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
 # Dicee 🎲
@@ -30,7 +29,6 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
 
